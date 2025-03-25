@@ -1,0 +1,6 @@
+# IntelliJ IDEA
+/.idea/
+/lattesite-localization.iml
+
+# Java output
+/out/

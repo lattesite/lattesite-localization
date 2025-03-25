@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"lattesite.localization.example"},{"l":"lattesite.localization.locale"},{"l":"lattesite.localization.text"}];updateSearchResults();
